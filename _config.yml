@@ -1,3 +1,16 @@
 theme: jekyll-theme-slate
 title: The Mighty Fred
 description: This page is here to display my accomplishments and hone my Github skills!
+
+using System;
+
+namespace ConsoleApplication
+{
+    public class Program
+    {
+        public static void Main()
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
